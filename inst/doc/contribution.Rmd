@@ -1,0 +1,31 @@
+---
+title: "A Tiny Contribution Table Generator Based on ggplot2"
+author: "Shixiang Wang \\
+        ShanghaiTech. University"
+date: "`r Sys.Date()`"
+
+output:
+  prettydoc::html_pretty:
+    toc: true
+    theme: cayman
+    highlight: github
+  pdf_document:
+    toc: true
+vignette: >
+  %\VignetteIndexEntry{Vignette Index}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\usepackage[utf8]{inputenc}
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  eval = FALSE
+)
+```
+
+The vignettes have been moved to my website, so I can maintain them more easily. [GitHub Issue](https://github.com/ShixiangWang/contribution/issues) is a place for discussing any problem. 
+Any feedback is also welcome.
+
+- [A Tiny Contribution Table Generator Based on ggplot2](https://shixiangwang.github.io/home/en/tools/contribution-table/)
