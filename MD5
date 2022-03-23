@@ -1,9 +1,9 @@
-5ff5d61d0b6a969dcab8427de34dcc42 *DESCRIPTION
+cb1ce3ee02630f939b5ca98c595e498e *DESCRIPTION
 e8c8c2586f99ea0658a91c5082655241 *LICENSE
 b8069cd917709cd5bda9ce5f24905945 *NAMESPACE
 5fd811c29a99e7586e6580b32ebbb28b *R/data.R
-fbe92454e68a6a7be4252075b0469e12 *R/generate.R
-6bd61ddb0f9d91a596beb40118ddd72f *R/pull.R
+fdc85c87f6d9608284ec0756bc8bfb3f *R/generate.R
+94d1cb16d4cc02358e283bc457ad94bc *R/pull.R
 c39fb1a251e7b05b59ac5e7c823de76e *R/show_palette.R
 ad3f3c64fcdb96e66b1859bd35c48478 *R/utils-pipe.R
 a48da88f547ee9c9091050f83b509f85 *README.md
@@ -13,7 +13,7 @@ c04d29a2bb5c97932d5d01b58f66eb03 *data/CRediT.rda
 e50e4c1e4e8ab8977b79777d767229b6 *data/palette.rda
 b1c9f27501a05a6f9a3e86336c1f2185 *inst/doc/contribution.R
 f76f989b386688bb9a20425709c988e2 *inst/doc/contribution.Rmd
-69d5b99e2c20a4e5704582696c4ccfea *inst/doc/contribution.html
+27fa3038e58143ad15c5c2fd051afe9e *inst/doc/contribution.html
 a30d4b0283a02e15393336ab122a25b1 *man/CRediT.Rd
 24b2ed8b45ecb336502ecc6a7772a813 *man/demo.Rd
 f369aa4099883bc64f3ab82c0c26d854 *man/figures/README-unnamed-chunk-2-1.png
@@ -24,10 +24,10 @@ e72db04347d416ec61fe1872696d2332 *man/figures/README-unnamed-chunk-6-1.png
 f97514f687f265e725542068375c8643 *man/figures/README-unnamed-chunk-7-1.png
 576bbceeead69e48c9641d105038af52 *man/figures/README-unnamed-chunk-8-1.png
 d379ee257dfab5a44ec951c58c8b47c7 *man/figures/README-unnamed-chunk-8-2.png
-baa10a5e347a1130d94f37ea3a123741 *man/generate.Rd
+047e224d01652df67ada7c3fd1d13bbf *man/generate.Rd
 02a3e665581986ac32307d2e6d90aada *man/palette.Rd
 7c0f31c27fb11a05372afe610d4f4164 *man/pipe.Rd
-33ee270cecfa35aee476b57956eb2209 *man/pull_github.Rd
+513e7e6783579fab38432549f15ef48f *man/pull_github.Rd
 338218f634c75d98221c61f51be04b66 *man/pull_github_limit.Rd
 cd89cef50da9dc0c148a667d5d5260c9 *man/show_palette.Rd
 f76f989b386688bb9a20425709c988e2 *vignettes/contribution.Rmd
